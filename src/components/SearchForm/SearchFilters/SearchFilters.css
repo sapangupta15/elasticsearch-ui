@@ -1,0 +1,8 @@
+.SearchFilters {
+    display: flex;
+    flex-flow: row;
+    align-items: stretch;
+    /*justify-content: space-evenly;*/
+    margin: 1% 1.5%;
+    margin-bottom: 0;
+}

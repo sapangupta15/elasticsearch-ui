@@ -1,0 +1,15 @@
+.SearchBar {
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 10px;
+    background-color: inherit;
+}
+
+.TextField {
+    width: 500px;
+    box-sizing: border-box;
+
+}

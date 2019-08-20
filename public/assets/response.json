@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "date": "01-Jan-2014",
+      "bolivia": 200,
+      "ecuador": 100,
+      "madagascar": 300
+    },
+    {
+      "date": "01-Jan-2015",
+      "bolivia": 220,
+      "ecuador": 120,
+      "madagascar": 320
+    },
+    {
+      "date": "01-Jan-2016",
+      "bolivia": 280,
+      "ecuador": 180,
+      "madagascar": 380
+    },
+    {
+      "date": "01-Jan-2017",
+      "bolivia": 700,
+      "ecuador": 100,
+      "madagascar": 100
+    },
+    {
+      "date": "01-Jan-2018",
+      "bolivia": 200,
+      "ecuador": 600,
+      "madagascar": 800
+    }
+  ]
+}

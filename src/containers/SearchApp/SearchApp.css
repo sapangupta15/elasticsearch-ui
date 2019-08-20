@@ -1,0 +1,8 @@
+.SearchHeader {
+    z-index: 1000;
+    background-color: #20242B;
+}
+
+.SearchApp {
+    margin: 1%;
+}

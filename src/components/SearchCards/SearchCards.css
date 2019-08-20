@@ -1,0 +1,23 @@
+.ResultCards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ResultsHeader {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin: 0 1%;
+}
+
+.NavigationButtons {
+    margin-left: auto;
+    display: flex;
+}
+
+.NavigationButtons Button {
+    margin: 0 2%;
+    width: 100px;
+}
